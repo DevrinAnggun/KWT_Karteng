@@ -12,17 +12,29 @@ KWT Karangtengah Mobile App adalah aplikasi berbasis Flutter yang dirancang khus
 
 🔑 Fitur Utama
 1. Login & Registrasi
+   
 Pengguna bisa membuat akun dan masuk menggunakan email atau nomor HP.
-2. Beranda
+
+3. Beranda
+   
 Menampilkan informasi sambutan dan gambaran umum aktivitas KWT.
-3. Profil
+
+5. Profil
+   
 Menampilkan informasi pengguna dengan fitur edit foto profil, nama, dan email.
-4. Program & Kegiatan
+
+7. Program & Kegiatan
+   
 Menampilkan program yang sedang diikuti, progres kegiatan, dan sertifikat yang telah diraih.
-5. Pemesanan Produk
+
+9. Pemesanan Produk
+    
   - Fitur untuk memesan sayuran, makanan, dan minuman hasil pertanian lokal.
+    
   - Pelacakan status pesanan: Diterima → Diproses → Siap Diambil.
+    
 6. Notifikasi & Bantuan
+   
   Informasi penting dan kontak admin KWT Karangtengah untuk pertanyaan atau kendala.
 
 
